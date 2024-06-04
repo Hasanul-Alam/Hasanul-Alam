@@ -1,6 +1,5 @@
 ![Web Developer](https://media.licdn.com/dms/image/D4D12AQGg04KFQh_-PQ/article-cover_image-shrink_600_2000/0/1699236532428?e=2147483647&v=beta&t=6bVnuo_aG-WnIvJXcni0YEV69ZJSAcqucZPVgUyUaSc)
 <h2 align='center' font='bold'>Hi there 👋, I am Hasanul Alam</h2>
-<hr/>
 <h3 align='center'>A passionate Web Developer from Bangladesh</h3>
 #### Web Developer
 
