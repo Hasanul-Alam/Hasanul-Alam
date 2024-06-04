@@ -2,7 +2,7 @@
 <h2 align='center' font='bold'>Hi there 👋, I am Hasanul Alam</h2>
 <h3 align='center'>A passionate Web Developer from Bangladesh</h3>
 
-Skills: REACT / JS / HTML / CSS
+<h4>Skills: REACT / JS / HTML / CSS</h4>
 
 - 🔭 I’m currently working on a restaurant project called Bistro-Boss. 
 - 🌱 I’m currently learning NextJS 
