@@ -2,7 +2,7 @@
 <h2 align='center' font='bold'>Hi there 👋, I am Hasanul Alam</h2>
 <h3 align='center'>A passionate Web Developer from Bangladesh</h3>
 
-<img align='right' alt='GIF' width='400px' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'>
+<img align='right' alt='GIF' width='400px' src='https://i.ibb.co/r2HYzx1/coworking-male-programmer-writing-program-code.gif'>
 
 <h4>Skills: REACT / JS / HTML / CSS</h4>
 
