@@ -7,7 +7,7 @@ I'm a Front End Web Developer who is passionate about making error free websites
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on a restaurant project. 
+- 🔭 I’m currently working on a restaurant project called Bistro-Boss. 
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
