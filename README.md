@@ -1,6 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/D4D12AQGg04KFQh_-PQ/article-cover_image-shrink_600_2000/0/1699236532428?e=2147483647&v=beta&t=6bVnuo_aG-WnIvJXcni0YEV69ZJSAcqucZPVgUyUaSc)
-<h3 align='center'>Hi there 👋, I am Hasanul Alam</h3>
+<h2 align='center' font='bold'>Hi there 👋, I am Hasanul Alam</h2>
 <hr/>
+<h3 align='center'>A passionate Web Developer from Bangladesh</h3>
 #### Web Developer
 
 I'm a Front End Web Developer who is passionate about making error free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years I created 100s of websites for my clients. I pride myself on doing work with new technologies. I enjoy working with include ReactJS, JavaScript as well as a little bit of PHP.
