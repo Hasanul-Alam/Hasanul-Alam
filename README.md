@@ -1,6 +1,6 @@
 ![Web Developer](https://i.ibb.co/0q0Hzmq/Untitled-Project.jpg)
 <h2 align='center' font='bold'>Hi there 👋, I am Hasanul Alam</h2>
-<h3 align='center'>A passionate Web Developer from Bangladesh</h3>
+<h3 align='center'>Cross Platform Mobile App Developer</h3>
 
 <img align='right' alt='GIF' width='300px' src='https://i.ibb.co/2cBPDyr/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif'>
 
